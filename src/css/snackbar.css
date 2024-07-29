@@ -1,0 +1,25 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.delay {
+  width: 360px;
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.click {
+  width: 330px;
+  height: 64px;
+  margin-top: 16px;
+}
+
+.button {
+  width: 360px;
+  height: 40px;
+  margin-top: 24px;
+  border-radius: 8px;
+}
